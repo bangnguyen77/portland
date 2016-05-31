@@ -1,0 +1,26 @@
+.panel {
+  float: right;
+}
+
+body {
+  max-width: 800px;
+
+}
+
+}
+
+.infoSports {
+  display: none;
+}
+
+li img {
+  max-height: 250px;
+}
+
+.infoLandmarks {
+  display: none;
+}
+
+.infoHike {
+  display: none;
+}
